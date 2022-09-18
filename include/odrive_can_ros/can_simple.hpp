@@ -5,6 +5,7 @@
 #include <iterator>
 #include <map>
 #include <string>
+#include <chrono>
 
 #include <socketcan_interface/threading.h>
 
